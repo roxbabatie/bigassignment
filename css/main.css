@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.star-rating{
+    display: block;
+}
+thead {
+    background-color: #e3e2e1;
+    font-size: 14px;
+}
+.top-buffer {
+    margin-top: 50px;
+}
+#rating {
+    padding: 0;
+}
+
+.star.active {
+    color: red;
+}
+#counter {
+    display: none;
+}
+.errors {
+    color: red;
+}
+#errors {
+    color: red;
+}
+#count {
+
+}
+#calc {
+
+}
+#map {
+    height: 300px;
+}
